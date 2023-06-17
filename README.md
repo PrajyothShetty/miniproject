@@ -36,8 +36,7 @@ Rajkumar Boddu et al., [10]-  Have discussed to replace wired networks and avoid
 ![Screenshot 2023-06-17 100240](https://github.com/Suhassk10/Mini-Project/assets/136445308/489c040b-133a-48fe-b35d-f49b30570c32)
 
 #### 2)Flow Chart
-![Picture2](https://github.com/Suhassk10/Mini-Project/assets/136445308/2abb994a-46fe-4d24-8a68-eb265df7fb44)
-
+![Screenshot 2023-06-17 113123](https://github.com/PrajyothShetty/miniproject/assets/136879185/4da53392-dd69-40e3-8ccb-81ba88d54c39)
 #### 3)Software Used
 #### Arduino:
 The Arduino software, also known as the Arduino Integrated Development Environment (IDE), is a
